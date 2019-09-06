@@ -3,6 +3,7 @@ import axios from 'axios';
 import './App.css';
 import CardList from './components/CardsList.js';
 
+// todo refactor to class
 function App() {
 	const [ data, setData ] = useState([]);
 
