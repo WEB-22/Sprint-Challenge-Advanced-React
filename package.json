@@ -12,6 +12,7 @@
     "semantic-ui-react": "^0.88.0"
   },
   "devDependencies": {
+    "@testing-library/react": "^9.1.4",
     "nodemon": "^1.17.2"
   },
   "scripts": {

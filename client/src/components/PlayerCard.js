@@ -1,7 +1,6 @@
 import React from 'react';
 
 // * semantic UI imports
-import 'semantic-ui-css/semantic.min.css';
 import { Card } from 'semantic-ui-react';
 
 const PlayerCard = ({ name, country, searches }) => {
